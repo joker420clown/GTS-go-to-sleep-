@@ -1,1 +1,3 @@
 # GTS-go-to-sleep-
+gts.js is useless...
+no javascript is used
